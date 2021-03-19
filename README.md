@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Dordiuk
-- 🌱 I’m currently learning React JS
+
 
 
 <!---
