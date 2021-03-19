@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander Dordiuk
+- 👋 Hi, I’m Alexander
 
 
 
